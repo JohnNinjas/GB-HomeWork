@@ -26,5 +26,3 @@ if (isset($_SESSION['login'])) {
 </form>
 <?php } ?>
 <button><a href="../catalog.php">К каталогу</a></button>
-
-
